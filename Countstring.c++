@@ -10,7 +10,7 @@ int count(string str , char k ){
         }
     }
     cout<<count<<endl;
-    return  0 ;
+    return  0 ; 
 
 }
 
